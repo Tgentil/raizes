@@ -16,6 +16,10 @@ Uma calculadora  bem **SIMPLES** de raiz quadrada, onde o usuário pode inserir 
 - CSS
 - JavaScript
 
+## Limitações
+
+Está calculadora arredonda o número duas casas após a virgula, podendo gerar resultados não tão precisos.
+
 ## Autor
 
 * Thiago Da Silveira Gentil
