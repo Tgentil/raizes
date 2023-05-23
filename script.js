@@ -11,3 +11,7 @@ function calculateSquareRoot() {
 		resultElement.textContent = squareRoot.toFixed(2);
 	}
 }
+
+function goToCalculadoraAngular() {
+	window.location.href = "https://calculadora-angular-26fe7.web.app/";
+}
