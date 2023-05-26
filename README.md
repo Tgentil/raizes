@@ -1,5 +1,7 @@
 # Calculadora de Raiz Quadrada
 
+ [![GitHub](https://img.shields.io/badge/Visit-My%20Profile-0891B2?style=flat-square&logo=github)](https://github.com/Tgentil)
+
 Uma calculadora  bem **SIMPLES** de raiz quadrada, onde o usuário pode inserir um número e calcular a sua raiz quadrada.
 
 ## Como usar
